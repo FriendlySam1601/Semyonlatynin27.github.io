@@ -18,3 +18,11 @@ h1::first-letter{
 .page-title{
     font-size: 20px;
 }
+.btn1{
+    color: aquamarine;
+    background-color: blue;
+}
+.btn2{
+    color: crimson;
+    background-color: coral;
+}
