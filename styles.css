@@ -1,0 +1,20 @@
+h1{
+    position: relative;
+    color: red !important;
+}
+
+h1::after{
+    content: "pozyazya";
+}
+h1::before{
+    content: "SUCK";
+}
+h1::first-letter{
+    color:blue;
+}
+.title{
+    font-size: 50px;
+}
+.page-title{
+    font-size: 20px;
+}
