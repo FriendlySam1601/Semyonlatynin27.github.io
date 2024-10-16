@@ -7,7 +7,7 @@ h1::after{
     content: "pozyazya";
 }
 h1::before{
-    content: "SUCK";
+    content: "pomogite";
 }
 h1::first-letter{
     color:blue;
